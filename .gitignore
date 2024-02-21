@@ -1,4 +1,4 @@
-lecture
-lectures
-lab*
+lectures/ppt/
+!lectures/*.pdf
+lab*/
 **/build/
