@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Assignment3",
+      "request": "launch",
+      "mainClass": "assign1.Assignment3",
+      "projectName": "CS102A_8045155e"
+    },
+    {
+      "type": "java",
+      "name": "assign3",
+      "request": "launch",
+      "mainClass": "assign1.assign3",
+      "projectName": "CS102A_8045155e"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}
