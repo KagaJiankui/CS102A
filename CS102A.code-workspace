@@ -2,12 +2,12 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "assign1"
 		}
 	],
-	"settings": {},
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"maven.view": "hierarchical"
+	},
 	"launch": {
 		// 使用 IntelliSense 了解相关属性。
 		// 悬停以查看现有属性的描述。

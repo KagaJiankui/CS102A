@@ -1,4 +1,4 @@
-package assign1;
+package com.cs102a;
 
 import java.util.Scanner;
 

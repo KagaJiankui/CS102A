@@ -2,3 +2,4 @@ lectures/ppt/
 !lectures/*.pdf
 lab*/
 **/build/
+**/target/
