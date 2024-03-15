@@ -9,13 +9,16 @@ Assignments (OJ) and project repository of SUSTech CS109/CS102A.
 ---
 
 - [x] Lab1
-- [ ] Lab2
+- [x] Lab2
+- [x] Lab3
+- [x] Lab4
 
 ### Assignments(OJ)
 
 ---
 
-- [ ] **33%** Assignments 1
-  - [ ] Problem 1
-  - [ ] Problem 2
+- [x] **100%** Assignments 1
+  - [x] Problem 1
+  - [x] Problem 2
   - [x] Problem 3
+- [ ] Assignments 2
