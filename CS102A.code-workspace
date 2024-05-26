@@ -2,11 +2,18 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "assign4"
 		}
 	],
 	"settings": {
 		"java.configuration.updateBuildConfiguration": "automatic",
-		"maven.view": "hierarchical"
+		"maven.view": "hierarchical",
+		"java.format.settings.url": "D:\\CS102A\\.vscode\\eclipse-codestyle.xml",
+		"[java]": {
+			"editor.formatOnSaveMode": "modificationsIfAvailable"
+		}
 	},
 	"launch": {
 		// 使用 IntelliSense 了解相关属性。

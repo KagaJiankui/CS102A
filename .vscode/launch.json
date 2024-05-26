@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Assignment3_2",
+      "request": "launch",
+      "mainClass": "com.cs102a.Assignment3_2",
+      "projectName": "assign"
+    },
+    {
+      "type": "java",
+      "name": "Assignment3_1",
+      "request": "launch",
+      "mainClass": "com.cs102a.Assignment3_1",
+      "projectName": "assign"
+    },
+    {
+      "type": "java",
       "name": "Assignment2_1",
       "request": "launch",
       "mainClass": "com.cs102a.Assignment2_1",

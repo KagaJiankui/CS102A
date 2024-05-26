@@ -25,3 +25,10 @@ Assignments (OJ) and project repository of SUSTech CS109/CS102A.
   - [x] Problem 1
   - [x] Problem 2
   - [ ] Problem 3
+- [x] Assignments 3
+  - [x] Problem 1
+  - [x] Problem 2
+  - [ ] Problem 3
+- [ ] Assignments 4
+- [ ] Assignments 5
+- [x] Assignments 6
